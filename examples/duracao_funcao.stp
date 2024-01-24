@@ -1,0 +1,3 @@
+probe kernel.function("do_fork") {
+  println("Tempo gasto na função do_fork(): $duration")
+}
