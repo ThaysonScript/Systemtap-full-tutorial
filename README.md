@@ -21,6 +21,7 @@ stap -v -e 'probe oneshot {println("hello world") }'
 
 ## Other Docs
 https://pt.slideshare.net/tchelinux/introduo-ao-systemtap-joo-avelino-bellomo-filho-tchelinux-caxias-2018
+https://manpages.debian.org/experimental/systemtap/stap.1
 
 ## Help Others
 https://wiki.debian.org/SystemTap
