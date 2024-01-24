@@ -19,5 +19,8 @@ apt install systemtap linux-image-$(uname -r)-dbg
 stap -v -e 'probe oneshot {println("hello world") }'
 ```
 
+## Other Docs
+https://pt.slideshare.net/tchelinux/introduo-ao-systemtap-joo-avelino-bellomo-filho-tchelinux-caxias-2018
+
 ## Help Others
 https://wiki.debian.org/SystemTap
